@@ -21,7 +21,6 @@ title: Joshua Daigle CV
 * Google Cloud, Google Firestore, Nuxt, VSCode, Visual Studio, Eclipse, Photoshop, Microsoft Word.
 
 ## Work Experience
-
 #### Payworks (Software Developer Co-Op, May 2022 - August 2022) 
 
 * Implemented company directory for HR page.
@@ -36,7 +35,6 @@ title: Joshua Daigle CV
 * Attended bi-weekly standups and shared updates/concerns.
 * Performed various maintenance/bug fixes. 
 
-
 #### UPFEAT MEDIA (Software Developer, January 2021 - April 2021)
 
 * Independently designed and implemented a Covid-19 contact tracing web application that allows for businesses and individuals to easily and efficiently track when and where potential Covid-19 contacts occurred. 
@@ -47,7 +45,6 @@ title: Joshua Daigle CV
 * Secured admin features using a JWT authenticated API gateway to access protected cloud functions.
 * Used AES-256-CBC encryption to securely store confidential user information into Google Firestore.
 
-
 ## Projects
 #### INTERACTIVE PARTY GAME
 * Developed an original interactive party game in Java. Utilized object oriented programming  concepts and a finite state machine to manage game states. This project has been enjoyed by dozens of users and received positive feedback.  
@@ -56,7 +53,6 @@ title: Joshua Daigle CV
 * Generates random permutations from a family of equations and plots them, shifts between states to create interesting visuals.
 
 ## Education 
-
 #### UNIVERSITY OF MANITOBA
 * B. SC. MAJOR IN COMPUTER SCIENCE (2017 - 2023)
 
