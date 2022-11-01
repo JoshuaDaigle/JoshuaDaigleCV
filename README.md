@@ -17,7 +17,7 @@ using Jekyll and hosting it online using GitHub Pages.
 ## Writing your resume
 
 Etter stresses the importance of writing a technical document using a lightweight, human readable markup language. This is because it makes it
-simple to maintain, publish, and collaborate wiht others. For these reasons we will be writing our resume in Markdown, the most popular lightweight markup
+simple to maintain, publish, and collaborate with others. For these reasons we will be writing our resume in Markdown, the most popular lightweight markup
 language in the world. This readme will not go into detail about how to use Markdown, but here are some resources to help you learn:
 * https://www.markdownguide.org/
 * https://github.github.com/gfm/
@@ -124,10 +124,11 @@ After a few minutes, your resume should hosted on GitHub pages.
 You can see your hosted resume by visiting `https://<GITHUB_USERNAME>.github.io/<GITHUB_REPOSITORY>/`, or by clicking the link
 at the top of the GitHub pages section. 
 
-![GitHub Pages Navigation](https://gyazo.com/f63a39ece43ee58f9500f2b13efaadf0)
+![GitHub Pages Navigation](https://i.gyazo.com/22735009ff7f850c74c4f17ad8101d81.gif)
 
 # Authors and Acknowledgments: 
 Joshua Daigle
+
 Group Members
 
 # FAQs
