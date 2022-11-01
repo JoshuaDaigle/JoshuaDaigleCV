@@ -56,14 +56,14 @@ To clone your forked repository:
 You should now see the contents of the repository inside of the folder you cloned into. 
 These files include: 
 * A folder named `_layouts`.
-* A file named `_config.yaml`.
+* A file named `_config.yml`.
 * A file named `.gitignore`.
 * A file named `index.md`.
 * A file named `README.md`.
 
 ## 3. Making changes to the repository
 
-In the index.md file, you will see 2 things:
+In the `index.md` file, you will see 2 things:
 * A YAML front matter block at the top of the page.
 * My Markdown formatted resume. 
 
