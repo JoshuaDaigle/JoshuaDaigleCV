@@ -21,7 +21,7 @@ title: Joshua Daigle CV
 * Google Cloud, Google Firestore, Nuxt, VSCode, Visual Studio, Eclipse, Photoshop, Microsoft Word.
 
 ## Work Experience
-#### Payworks (Software Developer Co-Op, May 2022 - August 2022) 
+#### PAYWORKS (Software Developer Co-Op, May 2022 - August 2022) 
 
 * Implemented company directory for HR page.
 * Implemented multiple new API endpoints.
