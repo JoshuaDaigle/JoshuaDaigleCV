@@ -18,7 +18,7 @@ using Jekyll and hosting it online using GitHub Pages.
 
 ## Writing your resume
 
-Etter stresses the importance of writing a technical document using a lightweight, human readable markup language. This is because it makes it
+Etter stresses the importance of writing a technical document using a lightweight, human readable markup language. This is because it makes the document
 simple to maintain, publish, and collaborate with others. For these reasons we will be writing our resume in Markdown, the most popular lightweight markup
 language in the world. This readme will not go into detail about how to use Markdown, but there are some resources posted in the "More Resources" Section
 
