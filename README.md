@@ -124,7 +124,7 @@ After a few minutes, your resume should hosted on GitHub pages.
 You can see your hosted resume by visiting `https://<GITHUB_USERNAME>.github.io/<GITHUB_REPOSITORY>/`, or by clicking the link
 at the top of the GitHub pages section. 
 
-![GitHub Pages Navigation](https://i.gyazo.com/22735009ff7f850c74c4f17ad8101d81.gif)
+![GitHub Pages Navigation](https://user-images.githubusercontent.com/56177903/199147008-d16ae0cf-4cbc-4fc6-898b-414ad7f32f6a.gif)
 
 # Authors and Acknowledgments: 
 Joshua Daigle
