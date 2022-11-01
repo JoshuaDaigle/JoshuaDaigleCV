@@ -24,7 +24,7 @@ language in the world. This readme will not go into detail about how to use Mark
 
 ## Creating your website
 
-We will be generating a static website from your resume. Etter recommends the using static websites for multiple reasons including: their portability, speed, simplicity, security. The tool we will be using to make the static website is Jekyll. Jekyll a popular static website generator recommended by Etter. Making your own static website from this repository will involve 6 main steps:
+We will be generating a static website from your resume. Etter recommends the using static websites for multiple reasons including: their portability, speed, simplicity, security. The tool we will be using to make the static website is Jekyll. Jekyll is a popular static website generator recommended by Etter. Making your own static website from this repository will involve 6 main steps:
 1. Forking this repository to your GitHub account.
 2. Cloning this repository to your local machine.
 3. Making changes to the repository.
