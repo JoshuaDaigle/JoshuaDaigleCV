@@ -1,5 +1,7 @@
 # Write and host a resume using Markdown, GitHub Pages, and Jekyll.
 
+## [Demo](https://joshuadaigle.github.io/JoshuaDaigleCV/)
+
 Purpose
 --
 This readme is for you to learn the software stack required to write your own resume and host it online while following Etters guidelines
@@ -18,20 +20,20 @@ using Jekyll and hosting it online using GitHub Pages.
 
 Etter stresses the importance of writing a technical document using a lightweight, human readable markup language. This is because it makes it
 simple to maintain, publish, and collaborate with others. For these reasons we will be writing our resume in Markdown, the most popular lightweight markup
-language in the world. This readme will not go into detail about how to use Markdown, but here are some resources to help you learn:
-* https://www.markdownguide.org/
-* https://github.github.com/gfm/
+language in the world. This readme will not go into detail about how to use Markdown, but there are some resources posted in the "More Resources" Section
 
 ## Creating your website
 
-We will be generating a static website from your resume. Etter recommends the using static websites because of their speed, simplicity, and security. 
-The tool we will be using to make the static website is Jekyll, a popular static website generator. Making your own static website from this repository will involve 6 main steps:
+We will be generating a static website from your resume. Etter recommends the using static websites for multiple reasons including: their portability, speed, simplicity, security. The tool we will be using to make the static website is Jekyll. Jekyll a popular static website generator reccomended by Etter. Making your own static website from this repository will involve 6 main steps:
 1. Forking this repository to your GitHub account.
 2. Cloning this repository to your local machine.
 3. Making changes to the repository.
 4. Generating the static website with Jekyll.
 5. Updating your repository with your changes.
 6. Hosting the static website with GitHub Pages.
+
+In these coming steps, you will start to understand why Etter loves static websites. The only thing that is required of you to host your
+own version of this resume website is to simply copy the files hosted on this repository with some minor adjustments.
 
 ## 1. Forking this repository
 Forking lets you create a copy of a repository that you can manage on your own GitHub page.
@@ -126,9 +128,31 @@ at the top of the GitHub pages section.
 
 ![GitHub Pages Navigation](https://user-images.githubusercontent.com/56177903/199147008-d16ae0cf-4cbc-4fc6-898b-414ad7f32f6a.gif)
 
+# More Resources
+
+* [Markdown](https://www.markdownguide.org/)
+* [GitHub Flavoured Markdown](https://github.github.com/gfm/)
+* [Etter's Book on Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [Ruby Install](https://rubyinstaller.org/downloads/)
+* [RubyGems Install](https://rubygems.org/pages/download)
+
 # Authors and Acknowledgments: 
 Joshua Daigle
 
 Group Members
 
+This repository is a fork of https://github.com/casualwriter/casual-markdown-cv
+
 # FAQs
+
+### Why is Markdown better than a wordprocessor?
+Markdown is better than a wordprocessor for multiple reasons:
+* Markdown is easier to update.
+* Markdown is more lightweight.
+* Markdown can easily be hosted online.
+
+### Why is my resume not showing up?
+If your resume is not showing up on GitHub Pages there are a few things you can try:
+ * Wait a few minutes for GitHub Pages to update.
+ * Make sure your git changes are on the `main` branch.
+ * Confirm that you are on the correct URL.
