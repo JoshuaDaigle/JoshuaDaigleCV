@@ -24,7 +24,7 @@ language in the world. This readme will not go into detail about how to use Mark
 
 ## Creating your website
 
-We will be generating a static website from your resume. Etter recommends the using static websites for multiple reasons including: their portability, speed, simplicity, security. The tool we will be using to make the static website is Jekyll. Jekyll a popular static website generator reccomended by Etter. Making your own static website from this repository will involve 6 main steps:
+We will be generating a static website from your resume. Etter recommends the using static websites for multiple reasons including: their portability, speed, simplicity, security. The tool we will be using to make the static website is Jekyll. Jekyll a popular static website generator recommended by Etter. Making your own static website from this repository will involve 6 main steps:
 1. Forking this repository to your GitHub account.
 2. Cloning this repository to your local machine.
 3. Making changes to the repository.
@@ -121,7 +121,7 @@ To host your resume on GitHub Pages:
 4. Select `main` from the `Branch` dropdown
 5. Hit save. 
 
-After a few minutes, your resume should hosted on GitHub pages.
+After a few minutes, your resume should be hosted on GitHub pages.
 
 You can see your hosted resume by visiting `https://<GITHUB_USERNAME>.github.io/<GITHUB_REPOSITORY>/`, or by clicking the link
 at the top of the GitHub pages section. 
@@ -145,14 +145,14 @@ This repository is a fork of https://github.com/casualwriter/casual-markdown-cv
 
 # FAQs
 
-### Why is Markdown better than a wordprocessor?
-Markdown is better than a wordprocessor for multiple reasons:
+### Why is Markdown better than a word processor?
+Markdown is better than a word processor for multiple reasons:
 * Markdown is easier to update.
 * Markdown is more lightweight.
 * Markdown can easily be hosted online.
 
 ### Why is my resume not showing up?
-If your resume is not showing up on GitHub Pages there are a few things you can try:
+If your resume is not showing up on GitHub Pages, there are a few things you can try:
  * Wait a few minutes for GitHub Pages to update.
  * Make sure your git changes are on the `main` branch.
  * Confirm that you are on the correct URL.
