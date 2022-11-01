@@ -78,7 +78,7 @@ On this page, make the following changes:
 1. Edit the `title` variable to whatever you wish.
 2. Replace my resume with your own Markdown formatted resume.
 
-Additionally, in the `config.yaml` file, change the title variable to your desired website name. 
+Additionally, in the `config.yml` file, change the title variable to your desired website name. 
 
 ## 4. Generating the static website with Jekyll
 
