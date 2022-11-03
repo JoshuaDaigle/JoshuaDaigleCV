@@ -1,7 +1,6 @@
 # Write and host a resume using Markdown, GitHub Pages, and Jekyll.
 
 ## [Demo](https://joshuadaigle.github.io/JoshuaDaigleCV/)
-![test](https://i.imgur.com/sohWhy9.png)
 
 Purpose
 --
