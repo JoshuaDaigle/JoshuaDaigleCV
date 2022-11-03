@@ -2,6 +2,8 @@
 
 ## [Demo](https://joshuadaigle.github.io/JoshuaDaigleCV/)
 
+![test](https://imgur.com/gallery/aSVjtu7)
+
 Purpose
 --
 This readme is for you to learn the software stack required to write your own resume and host it online while following Etters guidelines
